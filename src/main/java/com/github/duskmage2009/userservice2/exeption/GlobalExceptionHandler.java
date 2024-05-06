@@ -1,4 +1,4 @@
-package com.github.duskmage2009.userservice2.exception;
+package com.github.duskmage2009.userservice2.exeption;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

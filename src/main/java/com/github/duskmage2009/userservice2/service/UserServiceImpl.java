@@ -3,7 +3,7 @@ package com.github.duskmage2009.userservice2.service;
 import com.github.duskmage2009.userservice2.DTO.UserCreateUpdateDTO;
 import com.github.duskmage2009.userservice2.DTO.UserReadDTO;
 import com.github.duskmage2009.userservice2.entity.User;
-import com.github.duskmage2009.userservice2.exception.UserNotFoundException;
+import com.github.duskmage2009.userservice2.exeption.UserNotFoundException;
 import com.github.duskmage2009.userservice2.mapper.UserMapper;
 import com.github.duskmage2009.userservice2.repository.UserRepository;
 import org.springframework.stereotype.Service;

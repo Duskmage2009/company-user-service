@@ -1,4 +1,4 @@
-package com.github.duskmage2009.userservice2.exception;
+package com.github.duskmage2009.userservice2.exeption;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(Long id) {

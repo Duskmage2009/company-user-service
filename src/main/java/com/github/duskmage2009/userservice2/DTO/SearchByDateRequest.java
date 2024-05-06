@@ -1,6 +1,6 @@
 package com.github.duskmage2009.userservice2.DTO;
 
-import com.github.duskmage2009.userservice2.exception.CheckDate;
+import com.github.duskmage2009.userservice2.exeption.CheckDate;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
